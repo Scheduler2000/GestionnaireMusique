@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1551692511 source:c:\users\perospero\desktop\tp collection\sources\liste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../includes/liste.h"
+
+1551690437 source:c:\users\perospero\desktop\tp collection\sources\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../includes/liste.h"
+	"../includes/menu.h"
+
+1551693320 source:c:\users\perospero\desktop\tp collection\sources\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"../includes/menu.h"
+
+1551691562 c:\users\perospero\desktop\tp collection\includes\menu.h
+	"../includes/liste.h"
+
+1551621910 c:\users\perospero\desktop\tp collection\includes\liste.h
+
